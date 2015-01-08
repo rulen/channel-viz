@@ -16,7 +16,7 @@
 		defaultFeeds	= ['77050!pnd'], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Nick\'s feeds', // Replaces Xively logo in the header
 		dataDuration	= '1day', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
-		dataInterval	= 600, // Default interval for data to be displayed (in seconds)
+		dataInterval	= 300, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
 		hideForm		= 1; // To hide input form use value of 1, otherwise set to 0
 
